@@ -39,3 +39,20 @@ A music player interface with a playlist layout and playback controls in develop
 <p align="center">
   <i>More projects coming soon...</i>
 </p>
+
+
+---
+
+## > CURRENT STATUS_
+
+- 🎓 Pursuing BSc IT
+- 🌐 Learning full-stack web development
+- 🛠️ Building projects with HTML, CSS & JavaScript
+- 🧠 Strengthening my C++ and problem-solving skills
+- 🎯 Goal: Build useful projects and become a full-stack developer
+
+---
+
+<p align="center">
+  <i>Loading new skills... ███████░░░</i>
+</p>
