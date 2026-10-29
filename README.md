@@ -56,3 +56,18 @@ A music player interface with a playlist layout and playback controls in develop
 <p align="center">
   <i>Loading new skills... ███████░░░</i>
 </p>
+
+
+---
+
+## > GITHUB STATS_
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sddarkrai-stack&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sddarkrai-stack&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sddarkrai-stack&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
